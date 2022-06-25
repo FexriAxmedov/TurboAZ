@@ -14,7 +14,7 @@ namespace TurboAz
         List<Proclamation> proclamations = new List<Proclamation>();
         
 
-     cixdim sagol sende sagol
+     
         public void AddProclamation()
         {
             string iscontinue = "he";
